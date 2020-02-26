@@ -1,0 +1,60 @@
+.ui.top.menu{
+  background-color: #1175b9;
+  background-size: 100%;
+  color: #444444;
+  font-size: 14px;
+  font-family: Arial;
+}
+
+.ui.second.top.menu{
+  background-color: #1175b9;
+  color: #444444;
+  font-size: 14px;
+  font-family: Arial;
+  margin-top: -14px;
+  background-size: 100%;
+}
+.border-1{
+  border: 1px white;
+}
+
+.ui.aligned.container{
+  background-color: #1175b9;
+  width: 100px;
+  color: white;
+}
+
+.fitted.item{
+  margin-left: 30px;
+  margin-right: -120px;
+  color: white;
+  width: 200px;
+}
+
+.icon{
+  margin-left: 20px;
+  margin-right: -100px;
+  color: white;
+  width: 200px;
+}
+
+.text{
+  color: white;
+}
+
+.grad-background{
+  background: url("//i.dell.com/sites/csimages/Banner_Imagery/all/26991-laptop-xps-13-7390-desktop-8930-2800x944.jpg");
+  background-size: cover;
+  height: 60%;
+}
+.footer.menu{
+  position: fixed;
+  background-color: #1175b9;
+  background-position: bottom;
+  color: white;
+  font-size: 14px;
+}
+
+ui.invented.four.item.menu{
+
+}
